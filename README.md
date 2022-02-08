@@ -1,1 +1,2 @@
 # CursoIntroPython
+Katas Resueltos
